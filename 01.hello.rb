@@ -1,0 +1,1 @@
+mc_message "Hello from Sonic Pi"
